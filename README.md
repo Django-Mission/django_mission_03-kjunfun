@@ -1,6 +1,3 @@
-# django_mission_02-kangjinyong2
-django_mission_02-kangjinyong2 created by GitHub Classroom
-
-
-https://user-images.githubusercontent.com/66777943/163854451-58d5fc81-36c1-4d4d-9aa2-0f8a42c15c95.mp4
-
+![1](https://user-images.githubusercontent.com/87217408/166263968-119754fc-a032-4c06-8cc3-d6f6ec63f23f.PNG)
+![2](https://user-images.githubusercontent.com/87217408/166263977-e0babec8-b947-4193-bf38-70a8daa01f72.PNG)
+![3](https://user-images.githubusercontent.com/87217408/166263984-f2c96d7c-1f5d-48c8-a874-b5b0a34d1fae.PNG)
